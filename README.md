@@ -6,3 +6,7 @@ and [Jian Xu's CV](http://www.jianxu.net/en/files/JianXu_CV.pdf)
 
 Apart from Cheng Xu's version, I found the font that exactly Jian Xu uses, which is the Cronos Pro Light Caption,
 the modification in mycls has been done, the font can be found in the font folder in this repository.
+
+关于中文
+仅需对mycv.cls文件进行修改，加入\Requirepackage{CTEX}
+即可更改为中文。
